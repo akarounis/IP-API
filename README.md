@@ -1,6 +1,7 @@
 # IP-API
-A simple API created using ASP.NET that exposes an endpoint to retrieve IP details (CountryName, TwoLetterCode, ThreeLetterCode) for a specific IP. The API utilizes the following NuGet packages:
+A simple API created using ASP.NET that exposes an endpoint to retrieve IP details (CountryName, TwoLetterCode, ThreeLetterCode) for a specific IP. The specific requirements for this API can be found in REQUIREMENTS.pdf 
 
+The API utilizes the following NuGet packages:
 Microsoft.EntityFrameworkCore
 Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Tools
